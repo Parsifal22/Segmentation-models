@@ -1,0 +1,9 @@
+.env/
+__pycache__/
+Dataset/
+pretrained_models/
+
+*.pyc
+*.pyo
+*.pyd
+*.pth
